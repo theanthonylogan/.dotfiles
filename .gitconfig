@@ -1,5 +1,5 @@
 [user]
-	email = anthonyloganhall@gmail.com
+	email = 3709154+theanthonylogan@users.noreply.github.com
 	name = Anthony Hall
 [filter "lfs"]
 	clean = git-lfs clean -- %f
